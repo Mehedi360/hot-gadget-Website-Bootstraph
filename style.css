@@ -1,0 +1,105 @@
+.by-now{
+    background: linear-gradient(to bottom, rgb(0, 0, 0) 0%, rgb(80, 80, 80) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.Carddiv{
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+.div1{
+float: left;
+
+}
+.div2{
+
+font-size: 20px;
+font-weight: 500;
+color:#FF8D00 ;
+
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.best{
+    writing-mode: vertical-rl;
+text-orientation: mixed;
+color: #ddd;
+transform: rotate(-180deg);
+
+}
+.medalse{
+    
+    margin-top: 80px;
+    
+    margin-bottom: 70px;
+    
+}
+
+.medalse h2{
+    border-bottom:4px solid #FF8D00;
+}
+.clear{
+    overflow: hidden;
+}
+
+
+.carded{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    padding: 30px;
+}
+.carded img{
+    margin-bottom: 10%;
+}
+
+#contact-us{
+    height: 300px;
+}
+#contact-us h6{
+    color: gray;
+}
+.orange-bg{
+    border: none;
+    box-shadow: 10px 10px 10px 10px lightgray;
+    border-radius: 10px;
+    padding: 30px;
+    
+}
+
+.by-now-button{
+    background: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    margin-left: 169px;
+    margin-top: 10px;
+    
+}
+.footerup{
+    margin-top: 100px;
+    width: 50%;
+    
+}
+
+.footerboot{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom:30px;
+}
+
